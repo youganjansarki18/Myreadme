@@ -7,9 +7,11 @@ Data Analyst and Data Enthusiast
 "Deciphering Data Patterns to Drive Informed Decision-Making: A Data Analyst's Expertise"
 
 * 🌍  I'm based in New Delhi.
+* 🖥️  See my portfolio at [Portfolio]()
 * ✉️  You can contact me at [youganjans@gmail.com](mailto:youganjans@gmail.com)
 * 🧠  I'm learning Machine Learning.
 * 🤝  I'm open to collaborating on Data Science Projects.
+  
 
 ### Skills
 
